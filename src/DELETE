@@ -1,0 +1,2 @@
+delete from book_genre
+where id = 3;
